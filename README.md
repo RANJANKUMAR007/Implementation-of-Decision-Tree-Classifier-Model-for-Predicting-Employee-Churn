@@ -17,17 +17,17 @@ Split the data into training and testing sets using train_test_split().
 Calculate and display the confusion matrix and accuracy score using confusion_matrix() and accuracy_score().
 
 ## Program:
-```
-/*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
+
 Developed by: Ranjnkumar G
+
 RegisterNumber:  212223240138
+```
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 from sklearn.linear_model import LogisticRegression
-*/
 ```
 ## READ THE DATA:
 ```
