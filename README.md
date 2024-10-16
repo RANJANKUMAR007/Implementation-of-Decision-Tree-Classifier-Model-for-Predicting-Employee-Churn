@@ -20,8 +20,8 @@ Calculate and display the confusion matrix and accuracy score using confusion_ma
 ```
 /*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: NARMADHA SREE S
-RegisterNumber:  212223240105
+Developed by: Ranjnkumar G
+RegisterNumber:  212223240138
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
@@ -89,4 +89,4 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 # output:
 ![image](https://github.com/user-attachments/assets/9be9a1c0-64f8-4fea-815d-1151b4e2a8c8)
 # RESULT:
-Thus the program to implement the Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
+Thus the program to implement the Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programmin
